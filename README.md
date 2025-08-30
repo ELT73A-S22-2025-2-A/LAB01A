@@ -39,7 +39,7 @@ Para instalar execute `npm instalar`.
 ```javascript
 function cumprimentar(nome) {
   console.log(`Hello, ${nome}!`);
-
+}
 __________________________________________________________________
 __________________________________________________________________
 
