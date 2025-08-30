@@ -40,18 +40,10 @@ Para instalar execute `npm instalar`.
 __________________________________________________________________
 __________________________________________________________________
 
-# ✨ Atualização no projeto
-
-## Tarefas concluídas
+# Tarefas 
 - [x] Leia a documentação  
 - [ ] Escreva algum código  
 - [ ] Envie um pedido de pull  
 - [x] Teste  
 
-## 🛠️ Alterações
-- Criada função de exibição no console
-- Pequenos ajustes no código base
-
-
-}
 
