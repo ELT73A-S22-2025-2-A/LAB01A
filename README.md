@@ -36,11 +36,14 @@ LAB01
 
 Para instalar execute `npm instalar`.
 
-
+```javascript
+function cumprimentar(nome) {
+  console.log(`Hello, ${nome}!`);
+``````
 __________________________________________________________________
 __________________________________________________________________
 
-# Tarefas 
+Tarefas 
 - [x] Leia a documentação  
 - [ ] Escreva algum código  
 - [ ] Envie um pedido de pull  
